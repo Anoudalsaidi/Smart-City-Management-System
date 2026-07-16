@@ -1,4 +1,7 @@
-﻿namespace SmartCity.API
+﻿using Microsoft.EntityFrameworkCore;
+
+
+namespace SmartCity.API
 {
     public class SmartCityDbContext : DbContext
     {
