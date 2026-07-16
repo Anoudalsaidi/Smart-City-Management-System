@@ -34,8 +34,7 @@
               "RelativeToolTip": "SmartCity.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-16T15:16:50.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T15:16:50.183Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "SmartCity.API\\SmartCityDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T09:23:12.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T09:23:12.384Z"
             }
           ]
         }

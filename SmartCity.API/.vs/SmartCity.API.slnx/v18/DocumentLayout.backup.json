@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|solutionrelative:smartcity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\smartcitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|solutionrelative:smartcity.api\\smartcitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|solutionrelative:smartcity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartCity.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\appsettings.json",
+              "RelativeToolTip": "SmartCity.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-16T15:16:50.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Program.cs",
+              "RelativeDocumentMoniker": "SmartCity.API\\Program.cs",
+              "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Program.cs",
+              "RelativeToolTip": "SmartCity.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T15:13:39.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SmartCityDbContext.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\SmartCityDbContext.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\SmartCityDbContext.cs",
               "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\SmartCityDbContext.cs",
               "RelativeToolTip": "SmartCity.API\\SmartCityDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-16T09:23:12.384Z",
               "EditorCaption": ""
