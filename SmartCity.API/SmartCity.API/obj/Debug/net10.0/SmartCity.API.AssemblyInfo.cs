@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartCity.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53d05078bfbf76fdadf2db2250659fedb2a2b21a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+952f4d2594500c5a47c881458cb4f3f5a0714f31")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartCity.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartCity.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
