@@ -1,6 +1,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using SmartCity.API;
+using SmartCity.API.Data;
 
 namespace SmartCity.API
 {
