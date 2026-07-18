@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\dtos-department\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|solutionrelative:smartcity.api\\dtos-department\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|solutionrelative:smartcity.api\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\dtos-department\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|solutionrelative:smartcity.api\\dtos-department\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\dtos\\department\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|solutionrelative:smartcity.api\\dtos\\department\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\dtos-department\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|solutionrelative:smartcity.api\\dtos-department\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\dtos\\department\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|solutionrelative:smartcity.api\\dtos\\department\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\dtos\\department\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|solutionrelative:smartcity.api\\dtos\\department\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA4CE33B-B2DE-B815-1B54-B7DCA1D23B10}|SmartCity.API\\SmartCity.API.csproj|c:\\users\\baker\\desktop\\backend\\smart-city-management-system\\smartcity.sln\\smartcity.api\\smartcity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,11 +87,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "SmartCity.API\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "SmartCity.API\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T17:50:35.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DepartmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs-Department\\DepartmentDto.cs",
-              "RelativeDocumentMoniker": "SmartCity.API\\DTOs-Department\\DepartmentDto.cs",
-              "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs-Department\\DepartmentDto.cs",
-              "RelativeToolTip": "SmartCity.API\\DTOs-Department\\DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs\\Department\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "SmartCity.API\\DTOs\\Department\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs\\Department\\DepartmentDto.cs",
+              "RelativeToolTip": "SmartCity.API\\DTOs\\Department\\DepartmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-18T17:45:01.005Z",
@@ -95,12 +112,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UpdateDepartmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs-Department\\UpdateDepartmentDto.cs",
-              "RelativeDocumentMoniker": "SmartCity.API\\DTOs-Department\\UpdateDepartmentDto.cs",
-              "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs-Department\\UpdateDepartmentDto.cs",
-              "RelativeToolTip": "SmartCity.API\\DTOs-Department\\UpdateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs\\Department\\UpdateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "SmartCity.API\\DTOs\\Department\\UpdateDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs\\Department\\UpdateDepartmentDto.cs",
+              "RelativeToolTip": "SmartCity.API\\DTOs\\Department\\UpdateDepartmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-18T17:44:51.161Z",
@@ -108,12 +125,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateDepartmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs-Department\\CreateDepartmentDto.cs",
-              "RelativeDocumentMoniker": "SmartCity.API\\DTOs-Department\\CreateDepartmentDto.cs",
-              "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs-Department\\CreateDepartmentDto.cs",
-              "RelativeToolTip": "SmartCity.API\\DTOs-Department\\CreateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs\\Department\\CreateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "SmartCity.API\\DTOs\\Department\\CreateDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\DTOs\\Department\\CreateDepartmentDto.cs",
+              "RelativeToolTip": "SmartCity.API\\DTOs\\Department\\CreateDepartmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-18T17:44:37.139Z",
@@ -121,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20260717043647_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Migrations\\20260717043647_InitialCreate.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Migrations\\20260717043647_InitialCreate.cs",
@@ -133,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Models\\Service.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Models\\Service.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Models\\Employee.cs",
@@ -157,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Citizen.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Models\\Citizen.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Models\\Citizen.cs",
@@ -169,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SmartCityDbContext.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\SmartCityDbContext.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\SmartCityDbContext.cs",
@@ -177,12 +194,11 @@
               "RelativeToolTip": "SmartCity.API\\SmartCityDbContext.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T09:23:12.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T09:23:12.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Program.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Program.cs",
@@ -190,12 +206,11 @@
               "RelativeToolTip": "SmartCity.API\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T15:13:39.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T15:13:39.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SmartCity.API.csproj",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\SmartCity.API.csproj",
               "RelativeDocumentMoniker": "SmartCity.API\\SmartCity.API.csproj",
@@ -207,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\appsettings.json",
               "RelativeDocumentMoniker": "SmartCity.API\\appsettings.json",
@@ -219,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ServiceRequest.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Models\\ServiceRequest.cs",
@@ -231,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Complaint.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Models\\Complaint.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Models\\Complaint.cs",
@@ -243,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Models\\Notification.cs",
@@ -255,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UtilityBill.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Models\\UtilityBill.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Models\\UtilityBill.cs",
@@ -267,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CityZone.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Models\\CityZone.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Models\\CityZone.cs",
@@ -279,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\Smart-City-Management-System\\SmartCity.sln\\SmartCity.API\\SmartCity.API\\Models\\Department.cs",
               "RelativeDocumentMoniker": "SmartCity.API\\Models\\Department.cs",
