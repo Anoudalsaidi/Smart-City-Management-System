@@ -1,4 +1,4 @@
-﻿namespace SmartCity.API.DTOs_Department
+﻿namespace SmartCity.API.DTOs.Department
 {
     public class DepartmentDto
     {
