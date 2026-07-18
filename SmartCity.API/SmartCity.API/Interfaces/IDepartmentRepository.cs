@@ -1,6 +1,6 @@
 ﻿namespace SmartCity.API.Interfaces
 {
-    public class IDepartmentRepository
+    public class DepartmentRepository
     {
     }
 }
